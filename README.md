@@ -3,7 +3,7 @@
 This is my **first portfolio website**, built with pure **HTML**. It introduces me, my skills, achievements, hobbies, and contact details.
 The project is designed to be simple, clear, and beginner-friendly — a perfect starting point for anyone learning HTML basics.
 
-🔗 **Live Demo:** [Click here to view]([https://dileep-kumawat.github.io/Personal-Protfolio-1.0-using-HTML/])
+🔗 **Live Demo:** [Click here to view](https://dileep-kumawat.github.io/Personal-Protfolio-1.0-using-HTML/)
 
 📸 **Preview:**
 ![Portfolio Preview](preview.png)
